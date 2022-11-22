@@ -1,0 +1,5 @@
+sklearn
+ase
+
+rascal @ https://github.com/lab-cosmo/librascal/archive/5f6dd49c91e0e9750be3fbb1d601ec97cfac6097.zip
+skcosmo
